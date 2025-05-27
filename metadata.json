@@ -1,0 +1,6 @@
+{
+  "name": "UX Archetype Decision Tool",
+  "description": "A web application to help UX designers and Product Managers identify relevant user archetypes for privacy and compliance features, based on a decision map and detailed archetype profiles.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
